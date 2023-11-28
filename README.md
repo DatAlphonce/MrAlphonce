@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a budding data scientist and business analyst with experience in the Financial services and risk environment
+I'm a budding data scientist and business analyst with experience in the Financial services and Investment banking
 
 
 
